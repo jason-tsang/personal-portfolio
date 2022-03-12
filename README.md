@@ -1,1 +1,2 @@
-# personal-website
+# personal-portfolio page
+A personal portfolio website to showcase my projects and experience
